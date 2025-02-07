@@ -1,9 +1,12 @@
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
+const cors = require("cors");
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+
 var app = express();
+app.use(cors());
 // var indexRouter = require('./routes/index');
 // var usersRouter = require('./routes/users');
 var adminRoute=require('./routes/adminRoute');

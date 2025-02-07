@@ -1,0 +1,1132 @@
+{
+    "theater_name": "The Slavic Cultural Center",
+    "address": "ul. A. Cieszkowskiego 2 76-100 Sławno",
+    "movies": [
+        {
+            "movie_name": "Frank's Tales",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500190"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "DOGMAN",
+            "NA": "2025",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499404"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499405"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "This is not my movie",
+            "NA": "2D/original",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499455"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499456"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Photosensitive",
+            "NA": "2D/original",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499427"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499428"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "In the room next door",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499462"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499463"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Paddington in Peru",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500204"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Moana 2",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500205"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Looney Tunes: Porky and Daffy Save the World",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503799"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503800"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "13:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503801"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/505535"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/505536"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503804"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503292"
+                        },
+                        {
+                            "time": "16:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503774"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503775"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503776"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503777"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Bambi: A Forest Tale",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503826"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503827"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503828"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503829"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503830"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503761"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "13:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503762"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "13:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503763"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503764"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503765"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-20",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503766"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Girl with a needle",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503755"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503756"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503757"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503758"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503759"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503760"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Maria Callas",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503832"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503834"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503835"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503836"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503837"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503838"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503780"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503783"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503784"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503785"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503786"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-20",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503787"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Winter Moms",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "11:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503795"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Kina and Yuk",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500210"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Dolphin and Me",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500211"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Brave Gang and the Mystery of the Missing Uncle",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/505528"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500213"
+                        },
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/505529"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Muzyczny wehikuł czasu karaoke w SDK",
+            "NA": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/498565"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The blot and the invention of Filip Golarz",
+            "NA": "2D/original",
+            "showtimes": [
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500216"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Fantastic Angelo",
+            "NA": "2D/dubbing",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503866"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503869"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "11:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503870"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503871"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503872"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-20",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503873"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Marked",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503881"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503884"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503885"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503886"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503887"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-20",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503888"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Captain America: Brave New World",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503893"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503901"
+                        },
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503897"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503902"
+                        },
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503898"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503899"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503900"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Animacje w Kinie \"Balonowy Duet Show\"",
+            "NA": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "10:30",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/499207"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Brutalist",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/503924"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Babygirl",
+            "NA": "2D/subtitles",
+            "showtimes": [
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/501520"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Recital wiosenny Maciej Miecznikowski",
+            "NA": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-03-09",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/500959"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Stosunki na szczycie",
+            "NA": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-03-16",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "NA",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "",
+                            "booking_url": "https://iframe243.biletyna.pl/event/view/id/498578"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

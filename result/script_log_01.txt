@@ -1,0 +1,17 @@
+Script 10_Stylowy.py complete 
+Scrmovie_data.jsonipt 115_Elckie_Centrum_Kultury.py complete 
+Script 118_kino.mck.skarzysko.pl.py complete 
+Script 123_Tecza.py complete 
+Script 128_kinokameralnecafe.pl.py complete 
+Script 132_Lochow.py complete 
+Script 135_hel.py complete 
+Script 137_Kino_MOKiS.py complete 
+Script 141_Kino_Pegaz.py complete 
+Script 149_sdk.py complete 
+Script 14_Bielsko-Biala.py complete 
+Script 150_Stylowy.py complete 
+Script 159_moksir.chrzanow.pl.py complete 
+Script 15_Bydgoszcz.py complete 
+Script 160_mdk.turek.pl.py complete 
+Script 161_bibliotekabuk.pl.py complete 
+Script 163_mok.olkusz.pl.py complete 

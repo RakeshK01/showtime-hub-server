@@ -1,0 +1,848 @@
+{
+    "theater_name": "WIELKOPOLANIN",
+    "address": "Plac Stanisława Reszki 29, 64-320 Buk",
+    "latitude": "",
+    "longitude": "",
+    "movies": [
+        {
+            "movie_name": "Girl with a needle",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-dziewczyna-z-igla-121882?id=703115"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Looney Tunes: Porky and Daffy Save the World",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=703147"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=703148"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=703152"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=703154"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=703157"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=708731"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=708732"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=708730"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-17",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=708733"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-looney-tunes-porky-i-daffy-ratuja-swiat-121886?id=708734"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Shapeshifters",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-zmiennoksztaltni-121883?id=703146"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-zmiennoksztaltni-121883?id=703149"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-zmiennoksztaltni-121883?id=703151"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-zmiennoksztaltni-121883?id=703155"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-zmiennoksztaltni-121883?id=703158"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Babygirl",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-babygirl-121884?id=703145"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-babygirl-121884?id=703150"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-babygirl-121884?id=703153"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-babygirl-121884?id=703156"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-babygirl-121884?id=703159"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Bridget Jones: Crazy About a Man",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703117"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703118"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703119"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703120"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703121"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703122"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-17",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703123"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703124"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703125"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703126"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703129"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703127"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703128"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703130"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703131"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703132"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703134"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703133"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703135"
+                        },
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bridget-jones-szalejac-za-facetem-121872?id=703136"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Fairytale Readers - Basia. I'm Coping!",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "09:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-bajkowe-czytanki-basia-radze-sobie--122640?id=708729"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "A dog with a medal",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-pies-na-medal-122638?id=708806"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-pies-na-medal-122638?id=708805"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-pies-na-medal-122638?id=708807"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-pies-na-medal-122638?id=708808"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-pies-na-medal-122638?id=708809"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "100 days until final exams",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708814"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708813"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708817"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708818"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708820"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-07",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708822"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-08",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708825"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-09",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708828"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-10",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708831"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-11",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-100-dni-do-matury-121875?id=708834"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "3000 meters above the ground",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-3000-metrow-nad-ziemia-122639?id=708812"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-3000-metrow-nad-ziemia-122639?id=708815"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-3000-metrow-nad-ziemia-122639?id=708816"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-3000-metrow-nad-ziemia-122639?id=708819"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-3000-metrow-nad-ziemia-122639?id=708821"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Beautiful!",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-03-07",
+                    "times": []
+                },
+                {
+                    "date": "2025-03-08",
+                    "times": []
+                },
+                {
+                    "date": "2025-03-09",
+                    "times": []
+                },
+                {
+                    "date": "2025-03-10",
+                    "times": []
+                },
+                {
+                    "date": "2025-03-11",
+                    "times": []
+                }
+            ]
+        },
+        {
+            "movie_name": "Completely unknown",
+            "category": "Film",
+            "showtimes": [
+                {
+                    "date": "2025-03-07",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-kompletnie-nieznany-122631?id=708823"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-08",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-kompletnie-nieznany-122631?id=708827"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-09",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-kompletnie-nieznany-122631?id=708830"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-10",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-kompletnie-nieznany-122631?id=708833"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-11",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "2D",
+                            "dubbed_language": "Polish",
+                            "subtitle_language": "English",
+                            "booking_url": "https://www.bilety24.pl/kup-bilet-na-596-kompletnie-nieznany-122631?id=708835"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

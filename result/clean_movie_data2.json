@@ -1,0 +1,370 @@
+{
+    "theater_name": "Ełk Cultural Center",
+    "address": "ul. Wojska Polskiego 47, 19-300 Ełk",
+    "latitude": "NA",
+    "longitude": "NA",
+    "movies": [
+        {
+            "movie_name": "Sonic 3: Lightning Fast",
+            "category": "Genre: comedy, adventure",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495019"
+                        },
+                        {
+                            "time": "14:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495020"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495021"
+                        },
+                        {
+                            "time": "14:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495022"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495023"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495024"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/495025"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The blot and the invention of Filip Golarz",
+            "category": "Genre: fantasy",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497079"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497080"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497081"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Outrun",
+            "category": "Genre: drama",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497065"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497066"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Flow",
+            "category": "Genre: animation, fantasy, adventure",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497068"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497070"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/497071"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Completely unknown",
+            "category": "Genre: biographical, drama, musical",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502224"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502225"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502226"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502227"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502228"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502229"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "19:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502230"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Photosensitive",
+            "category": "Genre: Romance",
+            "showtimes": [
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502231"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502232"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502233"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502234"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502235"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "2D",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://biletyna.pl/event/view/id/502236"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

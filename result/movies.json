@@ -1,0 +1,1503 @@
+{
+    "theater_name": "Kino Mokis Bielawa",
+    "address": "Piastowska 19/A, 58-260, Bielawa",
+    "latitude": "",
+    "longitude": "",
+    "movies": [
+        {
+            "movie_name": "Sonic 3: Lightning Speed ​​2D dub",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579586-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579587-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579588-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579589-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579590-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579591-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579592-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579593-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579594-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579595-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579596-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579597-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579598-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sonic-3-szybki-jak-blyskawica-2d-dubb-55881/579599-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Illusion Show. MARKUS THE MAGICIAN",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "11:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/spektakl--iluzji-magik-markus-56108/581083-bilety-na-spektakl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Niko the Reindeer and Santa's Lost Sleigh 2D Dub",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/renifer-niko-i-zaginione-sanie-mikolaja-2d-dubb-55876/579560-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Dolphins and the Sea 2D dubbing",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579565-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579566-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579567-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579568-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579569-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579570-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/delfinek-i-ja-2d-dubbing-55882/579571-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Art of Beautiful Living 2D Subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/sztuka-pieknego-zycia-2d-napisy-55883/579604-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Better Man: The Incredible Robbie Williams 2D Subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/581997-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/581998-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/581999-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/582000-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/582001-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/better-man-niesamowity-robbie-williams-2d-napisy-56243/582002-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Girl with a needle 2D subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582003-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582004-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582005-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582006-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582007-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582008-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582009-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582010-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582011-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-17",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582012-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582013-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dziewczyna-z-igla-2d-napisy-56244/582014-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "The Three Little Pigs show",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "11:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/spektakl-swinki-trzy-56109/581084-bilety-na-spektakl"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Flow 2D",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582015-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582017-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582018-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582019-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582020-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582021-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-17",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582022-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582023-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582024-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582025-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582026-bilety-na-film"
+                        },
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/flow-2d-56246/582027-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Bridget Jones: Mad About a Man 2D subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582665-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582028-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-15",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582030-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582029-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-16",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582032-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582031-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-17",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582034-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582033-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-18",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582036-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582035-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-19",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582038-bilety-na-film"
+                        },
+                        {
+                            "time": "20:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem-premiera-2d-napisy-56248/582037-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582040-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582465-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582466-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582467-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582468-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582469-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582470-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582471-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582472-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582473-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582474-bilety-na-film"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/bridget-jones-szalejac-za-facetem--2d-napisy-56248/582475-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Fuck Mickiewicz 2 2D PL",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582476-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582478-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582479-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582480-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582481-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582482-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582483-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582484-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582485-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582486-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582487-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-05",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/piepzyc-mickiewicza-2-2d-pl-56249/582488-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Dog Man 2D dubb",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582490-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582501-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582502-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582503-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582504-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dog-man-2d-dubb-56250/582505-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Completely unknown 2D subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582495-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-22",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582506-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-23",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582507-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582508-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-25",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582509-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-26",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582510-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582511-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582512-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582513-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582514-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582515-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-05",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kompletnie-nieznany-2d-napisy-56251/582516-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Father's Heart 2D Subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582496-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582517-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582518-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582519-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582520-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-05",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/serce-ojca-2d-napisy-56252/582521-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Brave Gang and the Mystery of the Missing Uncle 2D Dub",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582497-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582522-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582523-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582524-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582525-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-05",
+                    "times": [
+                        {
+                            "time": "15:00",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/dzielna-banda-i-tajemnica-zaginionego-wujka-2d-dubb-56253/582526-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "Captain America: Brave New World 2D subtitles",
+            "category": "NA",
+            "showtimes": [
+                {
+                    "date": "2025-02-28",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582498-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-01",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582527-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-02",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582528-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-03",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582529-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-04",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582530-bilety-na-film"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-05",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "",
+                            "dubbed_language": "",
+                            "subtitle_language": "",
+                            "booking_url": "https://ekobilet.pl/mokis-bielawa/kapitan-ameryka-nowy-wspanialy-swiat-2d-napisy-56254/582531-bilety-na-film"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

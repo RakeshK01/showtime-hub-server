@@ -12,14 +12,14 @@ const VerifyToken = (req, res, next) => {
   const authHeader = req.get("Authorization");
   
   const token = authHeader.slice(7);
-  console.log("token", token);
+  // console.log("token", token);
   
   jwt.verify(token, SECURE_ACCESS, (err, decoded) => {
     if (err) {
       console.log(err);
       return res.sendStatus(403);
     } //invalid token
-    console.log("decoded", decoded);
+    // console.log("decoded", decoded);
     req.decoded = decoded;
     next();
   });
@@ -37,8 +37,7 @@ const NewAccessToken = (req, res) => {
   let refreshToken = authHeader?.slice(7); //
 
   jwt.verify(refreshToken, SECURE_REFRESH, (err, decoded) => {
-    console.log("NewAccessToken", err);
-    console.log(decoded, "decoded?.User")
+
     if (err) return res.sendStatus(403);
     const accessToken = jwt.sign(
       {

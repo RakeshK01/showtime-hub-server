@@ -35,7 +35,7 @@ exports.getCountryList = async (limit, offset) => {
                 console.log(fncName, "error", err)
                 reject(err)
             }
-            console.log(fncName, result.rows)
+            // console.log(fncName, result.rows)
             resolve(result.rows)
         })
 
@@ -79,7 +79,6 @@ exports.getMovieList = async (limit, offset) => {
                 console.log(fncName, "error", err)
                 reject(err)
             }
-            console.log(fncName, result.rows)
             resolve(result.rows)
         })
 

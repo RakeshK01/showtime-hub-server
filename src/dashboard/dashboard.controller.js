@@ -61,11 +61,11 @@ exports.getMovieList = async (req, res) => {
 }
 
 exports.getMovieShowtimes = async (req, res) => {
-
+   
     try {
 
         let { movie_id, country_id, limit, offset } = req.body
-
+        console.log(req.body, "Movie");
         let json = {
             code: 200,
             message: "Success",

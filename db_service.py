@@ -54,11 +54,11 @@ def insertMovie(movie_name, theater_id, country_id, category):
             conn.close()
 
 
-def insertShowtime(movie_id, date, time, format, dubbed_language, subtitle_language, booking_url):
+def insertShowtime(movie_id, date, time, format, dubbed_language, subtitle_language, booking_url, theater_id):
     
     query = """
-        INSERT INTO showtime_table (movie_id, showtime_date, showtime_at, format, dubbed_language, subtitle_language, booking_url)
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO showtime_table (movie_id, showtime_date, showtime_at, format, dubbed_language, subtitle_language, booking_url, theater_id)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
         RETURNING showtime_id;
     """
     
@@ -68,7 +68,7 @@ def insertShowtime(movie_id, date, time, format, dubbed_language, subtitle_langu
     if conn:
         try:
             cursor = conn.cursor()
-            cursor.execute(query, (movie_id, date, time, format, dubbed_language, subtitle_language, booking_url))
+            cursor.execute(query, (movie_id, date, time, format, dubbed_language, subtitle_language, booking_url, theater_id))
             conn.commit()
             columns = [column[0] for column in cursor.description]
             data = [dict(zip(columns, row)) for row in cursor.fetchall()]
@@ -84,18 +84,12 @@ def insertShowtime(movie_id, date, time, format, dubbed_language, subtitle_langu
 
 def checkMovieExists(movie_name):
     
-    print("movie_name1", movie_name)
-    
     movie_name = str(movie_name).lower()
-
-    print("movie_name2", movie_name)
     
-    query = f"""
+    query = """
         SELECT movie_id, movie_name FROM movie_table 
-        WHERE lower(movie_name) like \'%{movie_name}%\'
+        WHERE lower(movie_name) LIKE %s
     """
-    
-    print("query", query)
     
     fncName = 'checkMovieExists'
 
@@ -103,7 +97,7 @@ def checkMovieExists(movie_name):
     if conn:
         try:
             cursor = conn.cursor()
-            cursor.execute(query)
+            cursor.execute(query, (f"%{movie_name}%",))  # ✅ Correct parameterized query
             conn.commit()
             columns = [column[0] for column in cursor.description]
             data = [dict(zip(columns, row)) for row in cursor.fetchall()]

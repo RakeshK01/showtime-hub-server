@@ -1,0 +1,1502 @@
+{
+    "theater_name": "Centrum Kultury Filmowej",
+    "address": "ul. Odrodzenia 9, 22-400 Zamość",
+    "movies": [
+        {
+            "movie_name": "3000 METERS ABOVE THE GROUND",
+            "category": "thriller",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88004&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88016&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88056&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88070&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88088&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88096&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88121&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88132&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88110&typetran=0&ReturnLink=https://www.stylowy.net/film/3684-3000-metrow-nad-ziemia.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "BALCONIES",
+            "category": "horror/comedy/fantasy",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87998&typetran=0&ReturnLink=https://www.stylowy.net/film/3686-balkoniary.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88010&typetran=0&ReturnLink=https://www.stylowy.net/film/3686-balkoniary.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "DOGMAN",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87999&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        },
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88000&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88011&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        },
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88012&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88052&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "12:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88063&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        },
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88064&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "12:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88082&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        },
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88083&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88098&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88117&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88128&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "17:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88106&typetran=0&ReturnLink=https://www.stylowy.net/film/3669-dog-man.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "BLEND AND THE INVENTION OF FILIP GOLARZ",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88033&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        },
+                        {
+                            "time": "11:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87929&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        },
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87994&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88042&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        },
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88006&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88040&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88069&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88077&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "09:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88142&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "10:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88136&typetran=0&ReturnLink=https://www.stylowy.net/film/3672-kleks-i-wynalazek-filipa-golarza.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "LOONEY TUNES: PORKY AND DAFFY SAVE THE WORLD",
+            "category": "animated/adventure/comedy",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88001&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88013&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88054&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88066&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        },
+                        {
+                            "time": "16:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88067&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "14:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88084&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        },
+                        {
+                            "time": "16:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88085&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88094&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88118&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88044&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        },
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88129&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88107&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-21",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88138&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-03-07",
+                    "times": [
+                        {
+                            "time": "09:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88140&typetran=0&ReturnLink=https://www.stylowy.net/film/3678-looney-tunes-porky-i-daffy-ratuja-swiat.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "F*CK MICKIEWICZ 2",
+            "category": "moral",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "12:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88048&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "17:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87996&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=87997&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "17:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88008&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88009&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88049&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88050&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "17:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88073&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88074&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "17:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88079&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88080&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88092&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88093&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "17:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88115&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88116&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "09:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88146&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88137&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88126&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88127&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "09:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88144&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "17:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88104&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        },
+                        {
+                            "time": "19:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88105&typetran=0&ReturnLink=https://www.stylowy.net/film/3667-piepzyc-mickiewicza-2.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "FATHER'S HEART",
+            "category": "documentary",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88003&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "16:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88015&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88057&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88062&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88087&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88100&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88120&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "15:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88131&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "16:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88109&typetran=0&ReturnLink=https://www.stylowy.net/film/3682-serce-ojca.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "PHOTOSENSITIVE",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "18:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88002&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "18:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88014&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88053&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "19:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88072&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "19:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88086&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88099&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88119&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88130&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "19:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88108&typetran=0&ReturnLink=https://www.stylowy.net/film/3679-swiatloczula.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "COMPANION",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88005&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-06",
+                    "times": [
+                        {
+                            "time": "20:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88017&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88059&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88060&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88089&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88102&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88122&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "20:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88133&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "20:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88111&typetran=0&ReturnLink=https://www.stylowy.net/film/3692-towarzysz.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "BASIA. I'M DOING IT!",
+            "category": "animated/family",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "10:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88043&typetran=0&ReturnLink=https://www.stylowy.net/film/3676-basia-radze-sobie.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88068&typetran=0&ReturnLink=https://www.stylowy.net/film/3676-basia-radze-sobie.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88081&typetran=0&ReturnLink=https://www.stylowy.net/film/3676-basia-radze-sobie.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "KEEP GOING!",
+            "category": "comedy for years",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "10:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88038&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        },
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88055&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88071&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88078&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88095&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88114&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88125&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "18:15",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88103&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "13:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88047&typetran=0&ReturnLink=https://www.stylowy.net/film/3673-dalej-jazda.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "THE BRAVE BAND AND THE MYSTERY OF THE LOST UNCLE",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88051&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "13:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88065&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "13:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88091&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88097&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88124&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88135&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88141&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        },
+                        {
+                            "time": "15:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88113&typetran=0&ReturnLink=https://www.stylowy.net/film/3697-dzielna-banda-i-tajemnica-zaginionego-wujka.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "MARIA CALLAS",
+            "category": "drama/biographical",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88058&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88061&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88090&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88101&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "13:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88041&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        },
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88123&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "17:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88134&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-13",
+                    "times": [
+                        {
+                            "time": "18:30",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88112&typetran=0&ReturnLink=https://www.stylowy.net/film/3680-maria-callas.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "MUFASA: THE LION KING",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "14:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88075&typetran=0&ReturnLink=https://www.stylowy.net/film/3654-mufasa-krol-lew.html"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "14:45",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88076&typetran=0&ReturnLink=https://www.stylowy.net/film/3654-mufasa-krol-lew.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "CAPTAIN AMERICA: BRAVE NEW WORLD",
+            "category": "ON",
+            "showtimes": [
+                {
+                    "date": "2025-02-14",
+                    "times": [
+                        {
+                            "time": "10:00",
+                            "format": "N/A",
+                            "dubbed_language": "N/A",
+                            "subtitle_language": "N/A",
+                            "booking_url": "https://rezerwacja.stylowy.net/msi/default.aspx?event_id=88031&typetran=0&ReturnLink=https://www.stylowy.net/film/3688-kapitan-ameryka-nowy-wspanialy-swiat.html"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

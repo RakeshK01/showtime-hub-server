@@ -1,0 +1,536 @@
+[
+    {
+        "theater_name": "Kino Centrum",
+        "address": "ul. S\u0142owackiego 25, 26-110 Skar\u017cysko-Kamienna",
+        "latitude": "N/A",
+        "longitude": "N/A",
+        "movies": [
+            {
+                "movie_name": "The Brave Gang and the Mystery of the Missing Uncle",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-06",
+                        "times": [
+                            {
+                                "time": "15:00",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dzielna-banda-i-tajemnica-zaginionego-wujka"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "Looney Tunes: Porky and Daffy Save the World",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-06",
+                        "times": [
+                            {
+                                "time": "16:45",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/looney-tunes-porky-i-daffy-ratuja-swiat"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-07",
+                        "times": [
+                            {
+                                "time": "15:00",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/looney-tunes-porky-i-daffy-ratuja-swiat"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-09",
+                        "times": [
+                            {
+                                "time": "15:00",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/looney-tunes-porky-i-daffy-ratuja-swiat"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-11",
+                        "times": [
+                            {
+                                "time": "15:00",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/looney-tunes-porky-i-daffy-ratuja-swiat"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-13",
+                        "times": [
+                            {
+                                "time": "15:00",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/looney-tunes-porky-i-daffy-ratuja-swiat"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "Here. Out of Time",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-06",
+                        "times": [
+                            {
+                                "time": "18:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/here-poza-czasem"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "3000 meters above the ground",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-06",
+                        "times": [
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/3000-metrow-nad-ziemia"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "Let's go!",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-07",
+                        "times": [
+                            {
+                                "time": "16:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-09",
+                        "times": [
+                            {
+                                "time": "16:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-11",
+                        "times": [
+                            {
+                                "time": "16:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-13",
+                        "times": [
+                            {
+                                "time": "16:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-14",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-15",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-16",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-17",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-18",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-20",
+                        "times": [
+                            {
+                                "time": "16:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/dalej-jazda"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "F*ck Mickiewicz 2",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-07",
+                        "times": [
+                            {
+                                "time": "18:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            },
+                            {
+                                "time": "20:35",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-09",
+                        "times": [
+                            {
+                                "time": "18:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            },
+                            {
+                                "time": "20:35",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-11",
+                        "times": [
+                            {
+                                "time": "18:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            },
+                            {
+                                "time": "20:35",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-13",
+                        "times": [
+                            {
+                                "time": "18:40",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            },
+                            {
+                                "time": "20:35",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/piep-zyc-mickiewicza-2"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "Kina and Yuk",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-14",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-15",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-16",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-17",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-18",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-20",
+                        "times": [
+                            {
+                                "time": "14:20",
+                                "format": "N/A",
+                                "dubbed_language": "Polish",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/kina-i-yuk"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "movie_name": "Bridget Jones: Crazy About a Man",
+                "category": "N/A",
+                "showtimes": [
+                    {
+                        "date": "2025-02-14",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-15",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-16",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-17",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-18",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    },
+                    {
+                        "date": "2025-02-20",
+                        "times": [
+                            {
+                                "time": "18:00",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            },
+                            {
+                                "time": "20:30",
+                                "format": "N/A",
+                                "dubbed_language": "N/A",
+                                "subtitle_language": "N/A",
+                                "booking_url": "https://kino.mck.skarzysko.pl/filmy/bridget-jones-szalejac-za-facetem"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

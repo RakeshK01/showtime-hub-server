@@ -1,0 +1,411 @@
+{
+    "theater_name": "Hel Cinema",
+    "address": "ul. Poznańska 36, 63-300 Pleszew",
+    "latitude": "",
+    "longitude": "",
+    "movies": [
+        {
+            "movie_name": "3000 METERS ABOVE THE GROUND",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "16:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707930"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "KEEP GOING!",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "12:30",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704423"
+                        },
+                        {
+                            "time": "18:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704424"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "COMPLETELY UNKNOWN",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "20:35",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707971"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "20:35",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707971"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "20:35",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707971"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "ROYAL CLASSICAL BALLET \"SWAN LAKE\"",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-24",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=698456"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "KRYSTYNA PROŃKO WITH THE BAND",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-03-07",
+                    "times": [
+                        {
+                            "time": "18:00",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=700148"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "LOONEY TUNES: PORKY AND DAFFY SAVE THE WORLD",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "14:20",
+                            "format": "2D DUB",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704306"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "14:20",
+                            "format": "2D DUB",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704306"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "14:20",
+                            "format": "2D DUB",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704306"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "14:20",
+                            "format": "2D DUB",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704306"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "14:20",
+                            "format": "2D DUB",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704306"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "MARIA CALLAS",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-07",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-08",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-09",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "18:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707962"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "F*CK MICKIEWICZ 2",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "20:10",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704335"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "FATHER'S HEART",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-10",
+                    "times": [
+                        {
+                            "time": "14:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707977"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-11",
+                    "times": [
+                        {
+                            "time": "14:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707977"
+                        }
+                    ]
+                },
+                {
+                    "date": "2025-02-12",
+                    "times": [
+                        {
+                            "time": "14:15",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=707977"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "movie_name": "THIS IS NOT MY MOVIE",
+            "category": "N/A",
+            "showtimes": [
+                {
+                    "date": "2025-02-05",
+                    "times": [
+                        {
+                            "time": "14:30",
+                            "format": "",
+                            "dubbed_language": "NA",
+                            "subtitle_language": "NA",
+                            "booking_url": "https://kinohel.pl/b24-do-miejsc-numerowanych-i-nienumerowanych/?id=704443"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

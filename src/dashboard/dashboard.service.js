@@ -140,3 +140,22 @@ exports.showtimeList = async (movie_id, country_id, limit, offset) => {
 
     })
 }
+
+exports.updateMovieURL = async (image_url, movie_id) => {
+    return new Promise((resolve, reject) => {
+        var query = `UPDATE movie_table SET movie_image = $1 WHERE movie_id = $2`;
+
+        var arr = [image_url, movie_id]
+        var fncName = "showtimeList"
+
+        pool.query(query, arr, (err, result) => {
+            if (err) {
+                console.log(fncName, "error", err)
+                reject(err)
+            }
+            console.log(fncName, result.rows)
+            resolve(result.rows)
+        })
+
+    })
+}

@@ -93,3 +93,7 @@ CREATE TABLE showtime_table (
 INSERT INTO country_table (country_name, country_code) VALUES ('Poland', 'PL');
 
 ALTER TABLE showtime_table ADD COLUMN theater_id INTEGER REFERENCES theater_table (theater_id);
+
+INSERT INTO user_role_table (role_name, role_code, created_at) VALUES ('admin','ADMIN', CURRENT_TIMESTAMP);
+
+INSERT INTO user_table (name, role_id, email, password, created_at) VALUES ('admin', 1, 'admin@showtime.com', 'root', CURRENT_TIMESTAMP);

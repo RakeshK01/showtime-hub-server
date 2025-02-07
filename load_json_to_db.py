@@ -13,7 +13,7 @@ def saveData(data, index):
     
     print("\n\n")
     
-    required_keys = ['theater_name', 'address', 'latitude', 'longitude', 'movies']
+    required_keys = ['theater_name', 'movies']
     
     if any(key not in data for key in required_keys):
         print("Some of the keys are not present in the theater")
@@ -29,11 +29,20 @@ def saveData(data, index):
         print("Theater name doesn't exist")
         return
         
-    address = getDataValue(data['address'])
+    if 'address' in data:
+        address = getDataValue(data['address'])
+    else:
+        address = None
         
-    latitude = getDataValue(data['latitude'])
+    if 'latitude' in data:
+        latitude = getDataValue(data['latitude'])
+    else:
+        latitude = None
         
-    longitude = getDataValue(data['longitude'])
+    if 'longitude' in data:
+        longitude = getDataValue(data['longitude'])
+    else:
+        longitude = None
     
     countryID = 1
     

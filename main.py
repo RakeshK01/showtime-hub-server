@@ -3,7 +3,7 @@ import json
 
 def main():
     # Open and read the JSON file
-    with open('result/helios_eighth_five_cinema_data.json', 'r') as file:
+    with open('result/movies_data_128.json', 'r') as file:
         theaterDetails = json.load(file)
         
     isObject = isinstance(theaterDetails, dict)

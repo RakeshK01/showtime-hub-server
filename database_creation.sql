@@ -91,3 +91,5 @@ CREATE TABLE showtime_table (
 );
 
 INSERT INTO country_table (country_name, country_code) VALUES ('Poland', 'PL');
+
+ALTER TABLE showtime_table ADD COLUMN theater_id INTEGER REFERENCES theater_table (theater_id);

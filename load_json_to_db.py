@@ -105,9 +105,7 @@ def saveData(data, index):
                                 
                                 time = f"{date} {time}:00"
                                 
-                                print("time", time)
-                                
-                                showtime_results = insertShowtime(movieID, date, time, format, dubbedLanguage, subtitleLanguage, bookingURL)
+                                showtime_results = insertShowtime(movieID, date, time, format, dubbedLanguage, subtitleLanguage, bookingURL, theaterID)
                                 
                                 if isinstance(showtime_results, list) and len(showtime_results) > 0:
                         

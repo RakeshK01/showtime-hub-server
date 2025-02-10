@@ -108,3 +108,31 @@ def checkMovieExists(movie_name):
         finally:
             cursor.close()
             conn.close()
+
+def checkTheaterExists(theater_name):
+    
+    theater_name = str(theater_name).lower()
+    
+    query = """
+        SELECT theater_id, theater_name, address, lat, lng 
+        FROM theater_table 
+        WHERE lower(theater_name) LIKE %s
+    """
+    
+    fncName = 'checkTheaterExists'
+
+    conn = get_db_connection()
+    if conn:
+        try:
+            cursor = conn.cursor()
+            cursor.execute(query, (f"%{theater_name}%",))
+            conn.commit()
+            columns = [column[0] for column in cursor.description]
+            data = [dict(zip(columns, row)) for row in cursor.fetchall()]
+            return data
+        except Exception as e:
+            print(fncName, "Error: ", e)
+            conn.rollback()
+        finally:
+            cursor.close()
+            conn.close()

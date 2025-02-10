@@ -114,7 +114,7 @@ exports.adminLogin = async (req, res, next) => {
             message: "Success",
             access_token: req.accessToken,
             refreshToken: req.refreshToken,
-            role: User
+            user_data: User,
         })
 
     } catch (error) {

@@ -88,30 +88,34 @@ exports.getMovieList = async (limit, offset) => {
 exports.showtimeList = async (movie_id, country_id, limit, offset) => {
     return new Promise((resolve, reject) => {
         var query = `SELECT
-            st.showtime_id,
-            st.showtime_date,
-            st.showtime_at,
-            st.movie_id,
-            st.booking_url,
-            st.format,
-            st.dubbed_language,
-            st.subtitle_language,
-            st.created_at,
-            st.theater_id,
-            tt.theater_name,
-            tt.theater_image,
-            tt.address,
-            tt.lat,
-            tt.lng
-        FROM
-            showtime_table st
-            LEFT JOIN theater_table tt ON st.theater_id = tt.theater_id
-        WHERE
-            st.movie_id = $1
-            AND tt.country_id = $2
-            AND st.status = 'active'
-            AND tt.status = 'active'
-        ORDER BY st.showtime_at
+        st.showtime_id,
+        TO_CHAR(st.showtime_date, 'DD-MM-YYYY') AS showtime_date,
+        TO_CHAR(st.showtime_at, 'HH24:MI') AS showtime_at,
+        st.movie_id,
+        st.booking_url,
+        st.format,
+        st.dubbed_language,
+        st.subtitle_language,
+        st.created_at,
+        st.theater_id,
+        tt.theater_name,
+        tt.theater_image,
+        tt.address,
+        tt.lat,
+        tt.lng,
+        mt.movie_name,
+        mt.category,
+        mt.movie_image
+    FROM
+        showtime_table st
+        LEFT JOIN theater_table tt ON st.theater_id = tt.theater_id
+        LEFT JOIN movie_table mt ON mt.movie_id = st.movie_id
+    WHERE
+        st.movie_id = $1
+        AND tt.country_id = $2
+        AND st.status = 'active'
+        AND tt.status = 'active'
+    ORDER BY st.showtime_at    
         `;
 
         var arr = [movie_id, country_id]
@@ -133,13 +137,39 @@ exports.showtimeList = async (movie_id, country_id, limit, offset) => {
                 console.log(fncName, "error", err)
                 reject(err)
             }
-            console.log(fncName, result.rows)
+            // console.log(fncName, result.rows)
             resolve(result.rows)
         })
 
     })
 }
+exports.getTotalShowtimeCount= async (movie_id, country_id, limit, offset) => {
+    return new Promise((resolve, reject) => {
+        var query = `SELECT
+            count(st.showtime_id) as totalcount
+        FROM
+            showtime_table st
+            LEFT JOIN theater_table tt ON st.theater_id = tt.theater_id
+        WHERE
+            st.movie_id = $1
+            AND tt.country_id = $2
+            AND st.status = 'active'
+            AND tt.status = 'active';
+        `;
 
+        var arr = [movie_id, country_id]
+        var fncName = "getTotalShowtimeCount"
+
+        pool.query(query, arr, (err, result) => {
+            if (err) {
+                console.log(fncName, "error", err)
+                reject(err)
+            }
+            resolve(result.rows[0])
+        })
+
+    })
+}
 exports.updateMovieURL = async (image_url, movie_id) => {
     return new Promise((resolve, reject) => {
         var query = `UPDATE movie_table SET movie_image = $1 WHERE movie_id = $2`;

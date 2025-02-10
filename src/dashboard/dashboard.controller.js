@@ -88,10 +88,12 @@ exports.getMovieShowtimes = async (req, res) => {
             code: 200,
             message: "Success",
             showtime_list: [],
+            totalcount: 0,
         }
 
         json.showtime_list = await service.showtimeList(movie_id, country_id, limit, offset);
-
+        countData = await service.getTotalShowtimeCount(movie_id, country_id);
+        json.totalcount = countData?.totalcount;
         return res.status(200).json(json)
 
     } catch (error) {
